@@ -1,0 +1,23 @@
+AC220	Financial Accounting	B
+CJ121	Intro to Criminal Justice	M
+CO245	Public Speaking	D
+CS216	Data Structures	D
+CS315	Databases	N
+CS346	Foundations of Cyber Security	F
+CS424	Information Security, Policy, Administration, and Management	M
+EH111	Composition I	E
+HG227	World Geography	R
+HU294	The History of Jazz	Q
+IS422	Systems Analysis and Design	G
+LS327	Business Law	A
+MG224	Management Principles	N
+MG442	Business Ethics	*
+MG444	Project Management	E
+MK116	Principles of Marketing	F
+MS240	Discrete Math	P
+PH298	Comparative Religion	H
+PS214	Rights and Roles of Citizens	C
+PY111	General Psychology	Q
+PY231	Forensic Psychology	R
+SC321	Anatomy and Physiology	C
+SY113	Principles of Sociology	A
